@@ -57,6 +57,17 @@ Theme Styles
 @import url(http://fonts.googleapis.com/css?family=Share+Tech);
 
 
+.bbox {
+border: solid 2px;
+margin-left: 20%;
+margin-right: 20%;
+padding-bottom: .5em;
+padding-top: .5em;
+padding-left: .5em;
+padding-right: .5em;
+}
+
+
 h1 {
   color: red;
   font-family: 'Share Tech', sans-serif;
